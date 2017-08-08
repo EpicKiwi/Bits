@@ -1,6 +1,6 @@
 # Nom de la carte
 
-**Durée** : Durée de la carte
+**Durée** : Durée de la carte  
 **Récompense** : Récompense lors de la réussite
 
 [Image de la carte] ou [À Illustrer]
